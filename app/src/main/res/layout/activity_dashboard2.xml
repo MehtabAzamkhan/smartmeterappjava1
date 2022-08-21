@@ -24,9 +24,6 @@
     </LinearLayout>
 
 
-
-
-
     <TextView
         android:id="@+id/fambz"
         android:layout_width="match_parent"
