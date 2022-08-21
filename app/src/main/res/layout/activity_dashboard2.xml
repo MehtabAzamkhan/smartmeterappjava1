@@ -7,39 +7,38 @@
     tools:context=".Dashboard2">
 
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-<!--        <LinearLayout-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:layout_marginTop="5dp"-->
-<!--            android:orientation="horizontal"-->
-<!--            android:weightSum="10">-->
+        <ImageView
+            android:id="@+id/photo"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_400sdp">
 
-            <TextView
-                android:layout_marginTop="@dimen/_400sdp"
-                android:id="@+id/kill"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_weight="5"
-                android:text="Power Factor"
-                android:textAlignment="textStart"
-                android:textColor="@color/black"
-                android:textSize="@dimen/_30sdp" />
-
-<!--            <TextView-->
-<!--                android:id="@+id/kill2"-->
-<!--                android:layout_width="0dp"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:layout_marginEnd="10dp"-->
-<!--                android:layout_weight="5"-->
-<!--                android:text="blank"-->
-<!--                android:textAlignment="textEnd"-->
-<!--                android:textColor="@color/black"-->
-<!--                android:textSize="18sp"-->
-<!--                tools:text="0" />-->
+        </ImageView>
 
 
 
-<!--    </LinearLayout>-->
+    </LinearLayout>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/Relaod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="600dp"
+        android:background="@drawable/rectanglered"
+        android:backgroundTint="#FFF176"
+        android:text="Relaod Image"
+        android:textColor="@color/black"
+
+        android:textSize="@dimen/_15sdp"
+
+        android:textStyle="bold"/>
+
+
+
+
 
 </RelativeLayout>
