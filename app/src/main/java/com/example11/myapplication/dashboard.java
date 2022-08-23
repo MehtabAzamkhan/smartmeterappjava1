@@ -1,19 +1,15 @@
 package com.example11.myapplication;
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-//import androidx.recyclerview.widget.LinearLayoutManager;
-//import androidx.recyclerview.widget.RecyclerView;
-
-
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
-//import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
@@ -75,9 +71,9 @@ public class dashboard extends AppCompatActivity {
                     String current = map.get("Current").toString();
                     String voltage = map.get("Voltage").toString();
                     String kilowatt = map.get("KWh").toString();
-                    String Real = map.get("RealPower").toString();
-                    String apparent = map.get("ApparentPower").toString();
-                    String factor = map.get("PowerFactor").toString();
+                    String Real = map.get("Real Power").toString();
+                    String apparent = map.get("Apparent Power").toString();
+                    String factor = map.get("Power Factor").toString();
 
                     field1.setText(current);
                     field2.setText(voltage);
