@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Downloads/Aquarium-master/Aquarium-master/app/src/main/res/layout/activity_dashboard.xml" value="0.23314606741573032" />
+        <entry key="..\:/Downloads/Aquarium-master/Aquarium-master/app/src/main/res/layout/activity_settings.xml" value="0.16838487972508592" />
+        <entry key="..\:/Users/Humayun/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_dashboard.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/Humayun/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Humayun/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_settings.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/I T world/Downloads/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/drawable-v24/asdas.xml" value="0.1" />
+        <entry key="..\:/Users/I T world/Downloads/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/I T world/Downloads/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/drawable/dash.xml" value="0.1" />
+        <entry key="..\:/Users/I T world/Downloads/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/drawable/meter.xml" value="0.1" />
+        <entry key="..\:/Users/I T world/Downloads/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/layout/activity_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/I T world/Downloads/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/layout/activity_dashboard2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/I T world/Downloads/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/I T world/Downloads/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/kmeht/Downloads/Aquarium-master/Aquarium-master/app/src/main/res/drawable/asdas.xml" value="0.105" />
+        <entry key="..\:/Users/kmeht/Downloads/Aquarium-master/Aquarium-master/app/src/main/res/layout/activity_dashboard.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/kmeht/Downloads/Aquarium-master/Aquarium-master/app/src/main/res/layout/activity_dashboard2.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/kmeht/Downloads/Aquarium-master/Aquarium-master/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/kmeht/Downloads/Aquarium-master/Aquarium-master/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/kmeht/Downloads/Aquarium-master/Aquarium-master/app/src/main/res/layout/activity_splash.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/kmeht/Downloads/Aquarium-master/Aquarium-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/kmeht/Downloads/Aquarium-master/Aquarium-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/kmeht/Downloads/Aquarium-master/Aquarium-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/meterr/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/layout/activity_dashboard.xml" value="0.1796875" />
+        <entry key="..\:/meterr/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/layout/activity_dashboard2.xml" value="0.1796875" />
+        <entry key="..\:/meterr/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/meterr/smartmeterappjava1-master/smartmeterappjava1-master/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.114" />
+        <entry key="app/src/main/res/drawable/asdas.xml" value="0.1415" />
+        <entry key="app/src/main/res/drawable/bg.xml" value="0.15" />
+        <entry key="app/src/main/res/drawable/bg2.xml" value="0.147" />
+        <entry key="app/src/main/res/drawable/ic_baseline_access_time_filled_24.xml" value="0.147" />
+        <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1565" />
+        <entry key="app/src/main/res/drawable/ic_email_black_24dp.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.114" />
+        <entry key="app/src/main/res/drawable/ic_splash_vectors_01.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/ic_splash_vectors_02.xml" value="0.165" />
+        <entry key="app/src/main/res/drawable/ic_splash_vectors_04.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/ic_splash_vectors_05.xml" value="0.1565" />
+        <entry key="app/src/main/res/drawable/ic_splash_vectors_06.xml" value="0.2005" />
+        <entry key="app/src/main/res/drawable/ic_vector.xml" value="0.123" />
+        <entry key="app/src/main/res/drawable/rectangle.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/rectanglered.xml" value="0.155" />
+        <entry key="app/src/main/res/layout-v23/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/dasnldas.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/time.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
